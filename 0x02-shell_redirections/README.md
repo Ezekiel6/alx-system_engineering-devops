@@ -1,1 +1,1 @@
-shell direction
+shell directory
