@@ -1,1 +1,1 @@
-shell redirectory
+shell directory
